@@ -1,0 +1,12 @@
+\timing
+\x auto
+\set VERBOSITY verbose
+\set HISTCONTROL ignoredups
+\set COMP_KEYWORD_CASE upper
+\set HISTSIZE 10000
+\set ON_ERROR_ROLLBACK interactive
+\set paste
+\pset null   ¤
+\pset border 1
+\pset linestyle unicode
+\encoding unicode
